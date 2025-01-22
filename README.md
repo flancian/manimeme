@@ -1,6 +1,9 @@
-# Manimeme is a meme/slides generator based on manim
+# Manimeme is a meme generator based on manim
 
 Dedicated to the benefit of all beings :)
+
+Alternatively can be seen as just a slide generator, although I intend to use it first to generate some memes.
+
 
 ## Install
 
