@@ -34,6 +34,6 @@ For possible parameters (some are untested):
 
 ## Example
 
-<video src="example.mp4" controls>
+<video src="https://github.com/flancian/manimeme/raw/refs/heads/main/example.mp4" controls>
 Your browser does not support the video tag.
 </video>
