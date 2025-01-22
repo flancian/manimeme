@@ -39,8 +39,6 @@ For possible parameters (some are untested):
 
 [Watch the example video](https://github.com/flancian/manimeme/raw/refs/heads/main/example.mp4).
 
-<video src="https://github.com/flancian/manimeme/raw/refs/heads/main/example.mp4" controls>
-Your browser does not support the video tag.
-</video>
+Preview (in lower quality GIF format):
 
-(You *might* see it embedded above.)
+<img src="https://github.com/flancian/manimeme/raw/refs/heads/main/example.gif"> alt="example output">
