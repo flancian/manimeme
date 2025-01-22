@@ -37,8 +37,8 @@ For possible parameters (some are untested):
 
 ## Example
 
-[Watch the example video](https://github.com/flancian/manimeme/raw/refs/heads/main/example.mp4).
+[Watch the example video](https://github.com/flancian/manimeme/raw/refs/heads/main/example.mp4), or direct your attention towards this lower quality GIF:
 
-Preview (in lower quality GIF format):
-
-<img src="https://github.com/flancian/manimeme/raw/refs/heads/main/example.gif">
+<div align="center">
+  <img src="https://github.com/flancian/manimeme/raw/refs/heads/main/example.gif">
+</div>
