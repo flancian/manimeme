@@ -4,6 +4,8 @@ Dedicated to the benefit of all beings :)
 
 ## Install
 
+This project is managed with poetry. Install it if needed (e.g. `apt-get install poetry` or maybe preferrably `pipx install poetry`), then:
+
 ```
 >  poetry install
 ```

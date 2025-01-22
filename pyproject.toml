@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "manimeme"
+version = "0.1.0"
+description = "Manimeme is a meme/slides generator based on manim."
+authors = ["Flancian <0@flancia.org>"]
+license = "Apache"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+manim = "^0.19.0"
+markdown = "^3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
