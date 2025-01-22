@@ -34,6 +34,11 @@ For possible parameters (some are untested):
 
 ## Example
 
+[Watch the example video](https://github.com/flancian/manimeme/raw/refs/heads/main/example.mp4).
+
+
 <video src="https://github.com/flancian/manimeme/raw/refs/heads/main/example.mp4" controls>
 Your browser does not support the video tag.
 </video>
+
+(You *might* see it embedded above.)
