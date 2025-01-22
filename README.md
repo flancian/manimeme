@@ -31,3 +31,9 @@ For possible parameters (some are untested):
 ```
 >  poetry run ./manimeme.py --help
 ```
+
+## Example
+
+<video src="example.mp4" controls>
+Your browser does not support the video tag.
+</video>
