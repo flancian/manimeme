@@ -41,4 +41,4 @@ For possible parameters (some are untested):
 
 Preview (in lower quality GIF format):
 
-<img src="https://github.com/flancian/manimeme/raw/refs/heads/main/example.gif"> alt="example output">
+<img src="https://github.com/flancian/manimeme/raw/refs/heads/main/example.gif">
